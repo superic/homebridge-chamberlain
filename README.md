@@ -11,7 +11,7 @@
 0) Install Homebridge:   ```sudo npm i -g homebridge --unsafe-perm```
 1) Download this plugin: ```sudo npm i -g homebridge-chamberlain```
 2) Add the [config parameters](https://github.com/iRayanKhan/homebridge-chamberlain/blob/master/config-example.MD) to your [config.json](https://github.com/nfarina/homebridge/blob/master/config-sample.json) file.
-3) Run the plugin without the ```deviceID``` field to generate your deviceID's
+3) Run the plugin without the ```deviceID``` field to generate your deviceID's (you will find these in the log, click 'view log' to see them)
 4) Add the ```deviceID's```
 
 # Issues 
